@@ -107,7 +107,7 @@ const TypeWriterText = () => {
 
             </Title>
             <SubTitle>
-                DEFLATIONARY NFTS mechanism- More Burn More Fun!
+                Feet Takeover: The Wax Blockchain Stride! - 30th Sept
             </SubTitle>
 
             <ButtonContainer>
