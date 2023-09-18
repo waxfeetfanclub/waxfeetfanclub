@@ -111,7 +111,7 @@ const TypeWriterText = () => {
             </SubTitle>
 
             <ButtonContainer>
-            <a href="https://nfthive.io/collection/feetfansclub" target="blank" rel="opener"><Button text="Buy now" link='' /></a>
+            <a href="https://nfthive.io/drop/nfthivedrops/5882" target="blank" rel="opener"><Button text="Buy now" link='' /></a>
             </ButtonContainer>
 
         </>
