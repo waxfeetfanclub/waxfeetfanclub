@@ -26,6 +26,7 @@ function App() {
       <Showcase />
       <Team />
       <Faq />
+      <Footer />
       
       </ThemeProvider>
     </>
