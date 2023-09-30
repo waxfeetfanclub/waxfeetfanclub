@@ -107,7 +107,7 @@ const TypeWriterText = () => {
 
             </Title>
             <SubTitle>
-                Feet Takeover: The Wax Blockchain Stride! - 30th Sept
+                Mint is LIVE!!!
             </SubTitle>
 
             <ButtonContainer>
